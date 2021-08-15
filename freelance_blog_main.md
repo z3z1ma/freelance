@@ -1,11 +1,11 @@
-# Alex Butler [:zap:]
+# Alex Butler ⚡
 
 
-Hello! My name is Alex Butler [:wave:]. I am a freelance data/analytics engineer specializing in the _Modern Data Stack_ including proficiency with Python, Data Pipelines, SQL, Data Warehouse Design, Data Governance, and dbt (data build tool). I am a tech enthusiast interested in the cutting edge of modern analytics. {:rocket:}
+Hello! My name is Alex Butler 👋. I am a freelance data/analytics engineer specializing in the _Modern Data Stack_ including proficiency with Python, Data Pipelines, SQL, Data Warehouse Design, Data Governance, and dbt (data build tool). I am a tech enthusiast interested in the cutting edge of modern analytics. {:rocket:}
 
 Looking to Modernize your data stack? Managing expenses and churn in Excel? Struggling to democratize and share data amongst a growing team as a single source of truth? Difficulty creating KPIs to measure the performance of your business and make informed decisions? Or maybe just looking to hit the ground running early so you have no regrets later (inactionable data, compromised data, or data loss) due to lack of Data Governance.
 
-I specialize in open source technologies. [:hands:]
+I specialize in open source technologies. 🙌
 Together, we can solve your problems with either consulting sessions whereby I can speak with you and your team of analysts or engineers on what exactly constitutes the Modern Data Stack, why it exists, what dbt is, how to effectively deploy dbt on top of a data warehouse, and general design principles in an interactive session, or alternatively, I can be constracted directly to work with you and your team in standing up the infrastructure. 
 
 ___
@@ -22,7 +22,7 @@ A common stack that can be deployed with minimum **monetary** overhead might loo
 - dbt (Data Build Tool) Cloud (easiest) or deployment via AWS EC + Airflow for orchestration depending on analyst/engineer skillsets
 
 **BUSINESS INTELLIGENCE**
-- Metabase or Apache Superset with a lean towards Metabase (I contribute heavily to an open source project which supercharges dbt + Metabase [:rocket:])
+- Metabase or Apache Superset with a lean towards Metabase (I contribute heavily to an open source project which supercharges dbt + Metabase 🚀)
 
 ___
 A common stack that can be deployed with minimum **technical** overhead might look something like:
@@ -41,18 +41,18 @@ A common stack that can be deployed with minimum **technical** overhead might lo
 
 ___
 
-## Contact Me
+## Contact Me 📥
 
 Lets assess your business case, needs, and decide if consulting or a hands on, expedient, standing up of infrastructure is what is needed to propel your decision making to the next level. I will work to build / present the best solution for your particular team.
 
 butler.alex2010@gmail.com
 
-### Services
+## Services 👨‍🏫
 
 Please add one of the below to the subject of your email.
 
 - Data Infrastructure Assessment
-- Modern Data Stack Consultation
+- Modern Data Stack Consultation / Workshop
 - dbt Deployment and Operationalization
 - Modern Data Stack Deployment and Operationalization
 - Automation Problem Solving
